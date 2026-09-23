@@ -3,3 +3,5 @@ permalink: /:path/:basename.html
 
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
+  
