@@ -1,0 +1,5 @@
+title: "Nyargo's Blog Archive"
+permalink: /:path/:basename.html
+
+plugins:
+  - jekyll-relative-links
