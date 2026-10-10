@@ -1,6 +1,15 @@
-﻿# サイトマップ（全記事一覧）
+﻿# サイトマップ（移行後のリンク：ぼちぼち作成中）
 
-全 1399 件の記事一覧です。
+・新着記事(NEWS)
+* [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
+* [2026/10/12　ｽﾜﾝS　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0001.html)
+
+・おすすめ(PICKUP)
+　作成中…
+
+# アーカイブ（旧ブログの全記事一覧）
+
+アーカイブ分、全 1399 件の記事一覧です。
 
 * [posts/culture/2011-01-01-1157.html](https://nyargo1971.github.io/nyargos-blog/posts/culture/2011-01-01-1157.html)
 * [posts/culture/2018-10-29-0128.html](https://nyargo1971.github.io/nyargos-blog/posts/culture/2018-10-29-0128.html)
