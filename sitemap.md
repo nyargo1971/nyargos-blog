@@ -10,8 +10,8 @@
 ### 記事（GitHub）
 
 GitHubへの引っ越し後の記事一覧です。
-*
- [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
+* [2026/09/23　引っ越ししてきました](https://nyargo1971.github.io/nyargos-blog/posts/README.html)
+* [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
 * [2026/10/12　ｽﾜﾝS　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0001.html)
 
 ### アーカイブ（旧ブログの全記事一覧）

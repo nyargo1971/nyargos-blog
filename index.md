@@ -1,4 +1,4 @@
-# Nyargo's Blog Archive
+## Nyargo's Blog Archive
 
 17年分のブログ記事・テキスト資産の保管庫（アーカイブ）です。
 
