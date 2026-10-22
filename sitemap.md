@@ -1,4 +1,4 @@
-﻿# サイトマップ（移行後のリンク：ぼちぼち作成中）
+﻿## サイトマップ（移行後のリンク：ぼちぼち作成中）
 
 ・新着記事(NEWS)
 * [2026/10/25　菊花賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0001.html)
@@ -7,14 +7,14 @@
 　作成中…
 * [日本の競馬 INDEX](https://nyargo1971.github.io/nyargos-blog/posts/gamble/gamble_G1.html)
 
-# 記事（GitHub）
+### 記事（GitHub）
 
 GitHubへの引っ越し後の記事一覧です。
 *
  [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
 * [2026/10/12　ｽﾜﾝS　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0001.html)
 
-# アーカイブ（旧ブログの全記事一覧）
+### アーカイブ（旧ブログの全記事一覧）
 
 アーカイブ分、全 1399 件の記事一覧です。
 
