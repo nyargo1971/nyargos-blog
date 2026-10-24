@@ -2,6 +2,7 @@
 
 ・新着記事(NEWS)
 * [2026/10/25　菊花賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0001.html)
+* [2026/10/25　菊花賞　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0002.html)
 
 ・おすすめ(PICKUP)
 　作成中…
