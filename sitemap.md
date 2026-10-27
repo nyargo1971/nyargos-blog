@@ -1,8 +1,7 @@
 ﻿## サイトマップ（移行後のリンク：ぼちぼち作成中）
 
 ・新着記事(NEWS)
-* [2026/10/25　菊花賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0001.html)
-* [2026/10/25　菊花賞　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0002.html)
+* [2026/10/28　大和証券ログインで困ったグチ](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-28-0001.html)
 
 ・おすすめ(PICKUP)
 　作成中…
@@ -12,6 +11,8 @@
 
 GitHubへの引っ越し後の記事一覧です。
 * [2026/09/23　引っ越ししてきました](https://nyargo1971.github.io/nyargos-blog/README.html)
+* [2026/10/25　菊花賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0001.html)
+* [2026/10/25　菊花賞　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0002.html)
 * [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
 * [2026/10/12　ｽﾜﾝS　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0001.html)
 
