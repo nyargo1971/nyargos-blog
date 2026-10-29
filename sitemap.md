@@ -1,6 +1,7 @@
 ﻿## サイトマップ（移行後のリンク：ぼちぼち作成中）
 
 ・新着記事(NEWS)
+* [2026/11/01　天皇賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-01-0001.html)
 * [2026/10/28　大和証券ログインで困ったグチ](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-28-0001.html)
 
 ・おすすめ(PICKUP)
