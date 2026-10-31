@@ -3,16 +3,19 @@
 ・新着記事(NEWS)
 * [2026/11/01　天皇賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-01-0001.html)
 * [2026/11/01　天皇賞　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-01-0002.html)
-* [2026/10/28　大和証券ログインで困ったグチ](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-28-0001.html)
 
 ・おすすめ(PICKUP)
-　作成中…
-* [日本の競馬 INDEX](https://nyargo1971.github.io/nyargos-blog/posts/gamble/gamble_G1.html)
+<p>　作成中…</p>
+<p>　それなりにアクセス数が多いページやＩＮＤＥＸです</p>
+* [日本の競馬 INDEX](posts/gamble/gamble_G1.html)
+* [USB対応 将棋GUI + やねうら王（NNUE）導入手順 For Windows](posts/pc/2025-12-30-1159.html)
+* [大和証券ログインで困ったグチver2026](posts/gamble/2026-10-28-0001.html)
 
 ### 記事（GitHub）
 
 GitHubへの引っ越し後の記事一覧です。
 * [2026/09/23　引っ越ししてきました](https://nyargo1971.github.io/nyargos-blog/README.html)
+* [2026/10/28　大和証券ログインで困ったグチ](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-28-0001.html)
 * [2026/10/25　菊花賞　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0001.html)
 * [2026/10/25　菊花賞　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-25-0002.html)
 * [2026/10/12　ｽﾜﾝS　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-10-10-0002.html)
