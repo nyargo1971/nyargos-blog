@@ -1,6 +1,7 @@
 ﻿## サイトマップ（移行後のリンク：ぼちぼち作成中）
 
 ・新着記事(NEWS)
+* [2026/11/15　エリザベス女王杯　予想](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-15-0002.html)
 * [2026/11/15　エリザベス女王杯　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-15-0001.html)
 
 ・おすすめ(PICKUP)
