@@ -2,6 +2,7 @@
 
 ・新着記事(NEWS)
 * [2026/12/27　有馬記念　展望（予定）](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-12-27-0001.html)
+* [2026/11/29　ジャパンカップ　展望](https://nyargo1971.github.io/nyargos-blog/posts/gamble/2026-11-29-0001.html)
 
 ・おすすめ(PICKUP)
 <p>　作成中…</p>
